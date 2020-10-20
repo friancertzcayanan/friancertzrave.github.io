@@ -1,0 +1,73 @@
+html{
+  height: 200vh;
+  background: black;
+}
+body{
+  width: 700px;
+  margin-top: 10px;
+  margin-left: 250px;
+  background: lightpink;
+  padding: 0 20px 20px 20px;
+  border: 10px solid black;
+}
+.rave h1{
+  text-align: center;
+}
+.rave h2{
+  text-align: center;
+}
+.rave img{
+  display: block;
+  height: 200px;
+  margin: 0 auto;
+}
+.list p{
+  text-align: center;
+}
+.list ul li{
+  margin-left: 60px;
+  margin-right: 40px;
+  text-align: justify;
+  text-decoration: none;
+}
+.info p{
+  margin-right: 10px;
+  margin-left: 10px;
+  text-align: justify;
+}
+.friend h3{
+  text-align: center;
+}
+.friend img{
+  margin-left: 250px;
+  margin-right: 250px;
+    width: 200px;
+    height: 170px;
+}
+.friend p{
+    text-align: center;
+}
+.pets h3{
+    text-align: center;
+}
+.pets img{
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 200px;
+    height: 170px;
+}
+.pets p{
+    text-align: justify;
+}
+.crush h3{
+    text-align: center;
+}
+.crush img{
+    margin-left: 250px;
+    margin-right: 250px;
+    width: 200px;
+    height: 170px;
+}
+.crush p{
+    text-align: center;
+}
